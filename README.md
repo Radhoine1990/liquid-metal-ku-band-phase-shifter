@@ -69,7 +69,17 @@ Submission ID: 7fbb736f-e49c-4a50-9802-4523bd5d641b
 
 ## Authors
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22969168.svg)](https://doi.org/10.5281/zenodo.22969168)
+
 Radhoine Aloui and co-authors
+
+
+
+## Citation
+
+If you use this software, please cite:
+
+Aloui, Radhoine. (2026). Iterative WCIP Code for Reconfigurable Liquid-Metal Ku-Band Phase Shifter. Zenodo. https://doi.org/10.5281/zenodo.22969168
 
 ## Contact
 
